@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JS Conf EU",
+      "url": "https://www.youtube.com/c/JSConfEU",
+      "score": 35
+    },
+    {
+      "id": 3,
+      "title": "Dev Edmonton meetups",
+      "url": "https://devedmonton.com/#meetups",
+      "score": 28
+    },
+    {
+      "id": 4,
+      "title": "Pycon US Conference talk links",
+      "url": "https://www.youtube.com/c/PyConUS",
+      "score": 57
+    },
+    {
+      "title": "Generative AI art ",
+      "url": "https://www.craiyon.com/",
+      "score": 14,
+      "id": 5
+    },
+    {
+      "title": "Generative AI art ",
+      "url": "https://www.craiyon.com/",
+      "score": 15,
+      "id": 6
+    },
+    {
+      "title": "LOLZ",
+      "url": "https://www.google.com",
+      "score": 34,
+      "id": 7
+    },
+    {
+      "title": "TEST",
+      "url": "http://www.google.com",
+      "score": 10,
+      "id": 8
+    },
+    {
+      "title": "5",
+      "url": "http://www.google.com",
+      "score": 5,
+      "id": 9
+    },
+    {
+      "title": "0",
+      "url": "http://www.google.com",
+      "score": 0,
+      "id": 10
+    },
+    {
+      "title": "google",
+      "url": "https://www.google.com",
+      "score": 0,
+      "id": 11
+    },
+    {
+      "title": "google2",
+      "url": "https://www.google.com",
+      "score": 0,
+      "id": 12
+    }
+  ]
+}
